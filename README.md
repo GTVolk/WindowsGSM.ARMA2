@@ -1,4 +1,4 @@
-# WindowsGSM.ARMA3
+# WindowsGSM.ARMA2 & WindowsGSM.ARMA2OA
 🧩 WindowsGSM plugin for supporting Arma 2 & Arma 2 Operation Arrowhead Dedicated Server 
 
 ## Requirements
