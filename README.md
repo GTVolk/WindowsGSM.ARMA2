@@ -2,7 +2,7 @@
 🧩 WindowsGSM plugin for supporting Arma 2 & Arma 2 Operation Arrowhead Dedicated Server 
 
 ## Requirements
-[WindowsGSM](https://github.com/WindowsGSM/WindowsGSM) >= 1.21.0
+[WindowsGSM](https://github.com/WindowsGSM/WindowsGSM) >= 1.22.1
 
 ## Installation
 1. Download the [latest](https://github.com/DevVault/WindowsGSM.ARMA2/releases/latest) release
